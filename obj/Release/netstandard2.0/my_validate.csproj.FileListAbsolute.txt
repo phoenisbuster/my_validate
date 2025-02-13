@@ -1,0 +1,10 @@
+/Users/admin/UnityBuilds/proto/my_validate/bin/Release/netstandard2.0/my_validate.deps.json
+/Users/admin/UnityBuilds/proto/my_validate/bin/Release/netstandard2.0/my_validate.dll
+/Users/admin/UnityBuilds/proto/my_validate/bin/Release/netstandard2.0/my_validate.pdb
+/Users/admin/UnityBuilds/proto/my_validate/obj/Release/netstandard2.0/my_validate.csproj.AssemblyReference.cache
+/Users/admin/UnityBuilds/proto/my_validate/obj/Release/netstandard2.0/my_validate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/UnityBuilds/proto/my_validate/obj/Release/netstandard2.0/my_validate.AssemblyInfoInputs.cache
+/Users/admin/UnityBuilds/proto/my_validate/obj/Release/netstandard2.0/my_validate.AssemblyInfo.cs
+/Users/admin/UnityBuilds/proto/my_validate/obj/Release/netstandard2.0/my_validate.csproj.CoreCompileInputs.cache
+/Users/admin/UnityBuilds/proto/my_validate/obj/Release/netstandard2.0/my_validate.dll
+/Users/admin/UnityBuilds/proto/my_validate/obj/Release/netstandard2.0/my_validate.pdb

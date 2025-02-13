@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = my_validate
+build_property.ProjectDir = /Users/admin/UnityBuilds/proto/my_validate/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;netstandard2.1;net462;net8.0</TargetFrameworks>
+    <PackageId>EnvoyProtocValidate</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>phoeniS</Authors>
+    <Description>Protoc gen validation definitions for C#.</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.29.3" />
+    <Content Include="proto/validate.proto" Pack="true" Visible="true" />
+    <None Include="README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
+
+</Project>

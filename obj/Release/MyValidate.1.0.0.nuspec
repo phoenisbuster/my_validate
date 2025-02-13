@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyValidate</id>
+    <version>1.0.0</version>
+    <authors>phoeniS</authors>
+    <description>Protoc gen validation definitions for C#.</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.2">
+        <dependency id="Google.Protobuf" version="3.29.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net8.0">
+        <dependency id="Google.Protobuf" version="3.29.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Google.Protobuf" version="3.29.3" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Google.Protobuf" version="3.29.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/admin/UnityBuilds/proto/my_validate/bin/Release/net462/my_validate.dll" target="lib/net462/my_validate.dll" />
+    <file src="/Users/admin/UnityBuilds/proto/my_validate/bin/Release/net8.0/my_validate.dll" target="lib/net8.0/my_validate.dll" />
+    <file src="/Users/admin/UnityBuilds/proto/my_validate/bin/Release/netstandard2.0/my_validate.dll" target="lib/netstandard2.0/my_validate.dll" />
+    <file src="/Users/admin/UnityBuilds/proto/my_validate/bin/Release/netstandard2.1/my_validate.dll" target="lib/netstandard2.1/my_validate.dll" />
+  </files>
+</package>
