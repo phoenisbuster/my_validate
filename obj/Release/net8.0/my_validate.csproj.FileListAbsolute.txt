@@ -10,3 +10,4 @@
 /Users/admin/UnityBuilds/proto/my_validate/obj/Release/net8.0/refint/my_validate.dll
 /Users/admin/UnityBuilds/proto/my_validate/obj/Release/net8.0/my_validate.pdb
 /Users/admin/UnityBuilds/proto/my_validate/obj/Release/net8.0/ref/my_validate.dll
+/Users/admin/UnityBuilds/proto/my_validate/obj/Release/net8.0/my_validate.sourcelink.json

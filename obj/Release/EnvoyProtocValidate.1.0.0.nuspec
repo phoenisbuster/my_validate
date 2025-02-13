@@ -4,9 +4,11 @@
     <id>EnvoyProtocValidate</id>
     <version>1.0.0</version>
     <authors>phoeniS</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
     <readme>README.md</readme>
     <description>Protoc gen validation definitions for C#.</description>
-    <repository type="git" />
+    <repository type="git" url="https://github.com/phoenisbuster/my_validate.git" commit="ba6baaafd4b9cb26c3b0080b8443e58c26a600eb" />
     <dependencies>
       <group targetFramework=".NETFramework4.6.2">
         <dependency id="Google.Protobuf" version="3.29.3" exclude="Build,Analyzers" />
@@ -39,5 +41,6 @@
     <file src="/Users/admin/UnityBuilds/proto/my_validate/proto/validate.proto" target="contentFiles/any/netstandard2.0/proto/validate.proto" />
     <file src="/Users/admin/UnityBuilds/proto/my_validate/proto/validate.proto" target="contentFiles/any/netstandard2.1/proto/validate.proto" />
     <file src="/Users/admin/UnityBuilds/proto/my_validate/README.md" target="/README.md" />
+    <file src="/Users/admin/UnityBuilds/proto/my_validate/LICENSE" target="LICENSE" />
   </files>
 </package>

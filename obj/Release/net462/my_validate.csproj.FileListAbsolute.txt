@@ -109,3 +109,4 @@
 /Users/admin/UnityBuilds/proto/my_validate/obj/Release/net462/my_valid.F519656F.Up2Date
 /Users/admin/UnityBuilds/proto/my_validate/obj/Release/net462/my_validate.dll
 /Users/admin/UnityBuilds/proto/my_validate/obj/Release/net462/my_validate.pdb
+/Users/admin/UnityBuilds/proto/my_validate/obj/Release/net462/my_validate.sourcelink.json
